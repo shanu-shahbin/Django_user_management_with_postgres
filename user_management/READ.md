@@ -1,10 +1,12 @@
 <h1>Django User Management with PostgreSQL</h1>
-This project demonstrates how to set up a Django application using PostgreSQL as the database, with Django's built-in model management disabled. Instead, the psycopg2 module is used to execute SQL queries directly for CRUD operations.
+<p></p>This project demonstrates how to set up a Django application using PostgreSQL as the database, with Django's built-in model management disabled. Instead, the psycopg2 module is used to execute SQL queries directly for CRUD operations.</p>
+
 Installation and Configuration
 Prerequisites
 Python 3.8 or higher
 PostgreSQL 12 or higher
 psycopg2 module for PostgreSQL connectivity
+
 created database using manual quaries
 ![pgAdmin 4 8_21_2024 7_09_44 PM](https://github.com/user-attachments/assets/6fab33ed-5bad-4742-8a9f-b9b8a6afeb88)
 psql working 
