@@ -6,10 +6,9 @@ Prerequisites
 Python 3.8 or higher
 PostgreSQL 12 or higher
 psycopg2 module for PostgreSQL connectivity
-
-<h2>Database Setup</h2>
+Database Setup
 Create the PostgreSQL Database:
-<p>Create a PostgreSQL database named user_management using SQL queries or a graphical tool like pgAdmin.</p><br>
+Create a PostgreSQL database named user_management using SQL queries or a graphical tool like pgAdmin.
 ![pgAdmin 4 8_21_2024 7_09_44 PM](https://github.com/user-attachments/assets/6fab33ed-5bad-4742-8a9f-b9b8a6afeb88)
 psql working 
 ![Select SQL Shell (psql) 8_21_2024 7_15_22 PM](https://github.com/user-attachments/assets/5ab6be38-0a0f-47e7-bd2f-d2bd5845b6f9)
